@@ -1,0 +1,17 @@
+{
+  "name": "git-teste",
+  "version": "0.0.1",
+  "homepage": "https://github.com/wesleifreitas/git-teste",
+  "authors": [
+    "Weslei Freitas <weslei.rfreitas@gmail.com>"
+  ],
+  "description": "git-teste",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
