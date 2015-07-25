@@ -1,6 +1,6 @@
 {
   "name": "git-teste",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "homepage": "https://github.com/wesleifreitas/git-teste",
   "authors": [
     "Weslei Freitas <weslei.rfreitas@gmail.com>"
@@ -15,7 +15,6 @@
     "tests"
   ],
   "dependencies": {
-    "angular-route": "~1.4.3",
-    "git-teste": "*"
+    "angular-route": "~1.4.3"
   }
 }
