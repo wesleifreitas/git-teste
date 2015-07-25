@@ -12,11 +12,9 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests",
-    "src"
+    "tests"
   ],
   "dependencies": {
-    "angular-route": "~1.4.3",
-    "git-teste": "*"
+    "angular-route": "~1.4.3"
   }
 }
