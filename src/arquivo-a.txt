@@ -5,3 +5,4 @@ linha4 --alterar linha 4
 linha5
 linha6
 linha7 --testar "closes issue"
+linha8
